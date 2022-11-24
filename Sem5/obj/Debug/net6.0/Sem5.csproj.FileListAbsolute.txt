@@ -1,0 +1,15 @@
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/bin/Debug/net6.0/Sem5
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/bin/Debug/net6.0/Sem5.deps.json
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/bin/Debug/net6.0/Sem5.runtimeconfig.json
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/bin/Debug/net6.0/Sem5.dll
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/bin/Debug/net6.0/Sem5.pdb
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/obj/Debug/net6.0/Sem5.csproj.AssemblyReference.cache
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/obj/Debug/net6.0/Sem5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/obj/Debug/net6.0/Sem5.AssemblyInfoInputs.cache
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/obj/Debug/net6.0/Sem5.AssemblyInfo.cs
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/obj/Debug/net6.0/Sem5.csproj.CoreCompileInputs.cache
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/obj/Debug/net6.0/Sem5.dll
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/obj/Debug/net6.0/refint/Sem5.dll
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/obj/Debug/net6.0/Sem5.pdb
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/obj/Debug/net6.0/Sem5.genruntimeconfig.cache
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem5/obj/Debug/net6.0/ref/Sem5.dll
