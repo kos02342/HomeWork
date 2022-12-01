@@ -1,0 +1,15 @@
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/obj/Debug/net6.0/Sem7.csproj.AssemblyReference.cache
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/obj/Debug/net6.0/Sem7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/obj/Debug/net6.0/Sem7.AssemblyInfoInputs.cache
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/obj/Debug/net6.0/Sem7.AssemblyInfo.cs
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/obj/Debug/net6.0/Sem7.csproj.CoreCompileInputs.cache
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/bin/Debug/net6.0/Sem7
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/bin/Debug/net6.0/Sem7.deps.json
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/bin/Debug/net6.0/Sem7.runtimeconfig.json
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/bin/Debug/net6.0/Sem7.dll
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/bin/Debug/net6.0/Sem7.pdb
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/obj/Debug/net6.0/Sem7.dll
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/obj/Debug/net6.0/refint/Sem7.dll
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/obj/Debug/net6.0/Sem7.pdb
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/obj/Debug/net6.0/Sem7.genruntimeconfig.cache
+/Users/konstantinsedov/Desktop/GB/HomeWork/Sem7/obj/Debug/net6.0/ref/Sem7.dll
